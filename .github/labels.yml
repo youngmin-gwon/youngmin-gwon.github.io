@@ -31,3 +31,6 @@
 - color: 96b110
   description: "보안 관련 일을 작업합니다."
   name: "🔒 security"
+- color: 5319e7
+  description: "코드 의미를 바꾸지 않는 요소를 변겅합니다. (빈칸, 포맷팅, 마지막 쉼표 etc.)"
+  name: "💄 style"
