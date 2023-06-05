@@ -1,4 +1,4 @@
-name: github pages
+name: Deploy
 
 on:
     push:
@@ -10,7 +10,6 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - uses: subosito/flutter-action@v2
-            - uses: erickzanardo/flutter-gh-pages@v3
             - uses: bluefireteam/flutter-gh-pages@v7
               with:
                 baseHref: /
