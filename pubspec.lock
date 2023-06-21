@@ -185,14 +185,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.0"
-  device_frame:
-    dependency: transitive
-    description:
-      name: device_frame
-      sha256: afe76182aec178d171953d9b4a50a43c57c7cf3c77d8b09a48bf30c8fa04dd9d
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.1.0"
   fake_async:
     dependency: transitive
     description:
@@ -272,14 +264,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-  freezed_annotation:
-    dependency: transitive
-    description:
-      name: freezed_annotation
-      sha256: aeac15850ef1b38ee368d4c53ba9a847e900bb2c53a4db3f6881cbb3cb684338
-      url: "https://pub.dev"
-    source: hosted
-    version: "2.2.0"
   frontend_server_client:
     dependency: transitive
     description:
@@ -400,14 +384,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.0.4"
-  nested:
-    dependency: transitive
-    description:
-      name: nested
-      sha256: "03bac4c528c64c95c722ec99280375a6f2fc708eec17c7b3f07253b626cd2a20"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.0.0"
   package_config:
     dependency: transitive
     description:
@@ -440,14 +416,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.5.1"
-  provider:
-    dependency: transitive
-    description:
-      name: provider
-      sha256: cdbe7530b12ecd9eb455bdaa2fcb8d4dad22e80b8afb4798b41479d5ce26847f
-      url: "https://pub.dev"
-    source: hosted
-    version: "6.0.5"
   pub_semver:
     dependency: transitive
     description:
@@ -501,14 +469,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.99"
-  source_gen:
-    dependency: transitive
-    description:
-      name: source_gen
-      sha256: "373f96cf5a8744bc9816c1ff41cf5391bbdbe3d7a96fe98c622b6738a8a7bd33"
-      url: "https://pub.dev"
-    source: hosted
-    version: "1.3.2"
   source_span:
     dependency: transitive
     description:
@@ -621,40 +581,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.4.0"
-  widgetbook:
-    dependency: "direct dev"
-    description:
-      path: "packages/widgetbook"
-      ref: "upgrade-flutter-3.10"
-      resolved-ref: b91981fe7590194ec806ab5aa2cdd65e687168ad
-      url: "https://github.com/devfelipereis/widgetbook"
-    source: git
-    version: "2.4.0-beta.2"
-  widgetbook_annotation:
-    dependency: "direct main"
-    description:
-      name: widgetbook_annotation
-      sha256: b304c8b102debf96623c65f4cb2a2f661c94c6a49e91a837dfcf8eebd46d877c
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.0.0-rc.1"
-  widgetbook_generator:
-    dependency: "direct dev"
-    description:
-      name: widgetbook_generator
-      sha256: "154821e21403d1dc90d8af066c811844a4e4a1d30e1b1d4388f155f879c756e7"
-      url: "https://pub.dev"
-    source: hosted
-    version: "3.0.0-rc.1"
-  widgetbook_models:
-    dependency: transitive
-    description:
-      path: "packages/widgetbook_models"
-      ref: "upgrade-flutter-3.10"
-      resolved-ref: b91981fe7590194ec806ab5aa2cdd65e687168ad
-      url: "https://github.com/devfelipereis/widgetbook"
-    source: git
-    version: "0.0.7"
   xml:
     dependency: transitive
     description:
@@ -673,4 +599,4 @@ packages:
     version: "3.1.2"
 sdks:
   dart: ">=3.0.3 <4.0.0"
-  flutter: ">=3.10.0"
+  flutter: ">=3.3.0"
