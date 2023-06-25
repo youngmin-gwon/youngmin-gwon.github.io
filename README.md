@@ -1,3 +1,3 @@
-# portfolio
+# Youngmin Gwon
 
-A new Flutter project.
+This is the project explaining about me.
