@@ -1,6 +1,6 @@
 # Youngmin Gwon
 
-This is the project explaining about me.
+This is the webpage explaining about me.
 
 ## Contents
 
