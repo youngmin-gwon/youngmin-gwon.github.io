@@ -1,6 +1,6 @@
 # Youngmin Gwon
 
-This is the webpage explaining about me.
+This is the web page explaining about me.
 
 ## Contents
 
